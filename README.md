@@ -45,8 +45,7 @@ Music/SFX
 <img width="347" height="194" alt="image" src="https://github.com/user-attachments/assets/14b5422b-c6d3-4f4d-aac8-c9cc9a6278cf" />
 <img width="347" height="195" alt="image" src="https://github.com/user-attachments/assets/7d11eff0-9def-41b5-a388-d93b51c1b7ab" />
 
-
-🚀 Future improvements
+🚀 **Future improvements**
 
 Some possible improvements for the project include:
 
