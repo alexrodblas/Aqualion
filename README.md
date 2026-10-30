@@ -1,5 +1,6 @@
 # Aqualion
 A 2D top-down survival game developed with Unity and C# as part of my Higher Vocational Training in Multiplatform Application Development (DAM - Video Games).
+Aqualion was designed and developed entirely by me, I was responsible for the programming, gameplay mechanics, game system, art.
 
 🎮 **About the game**
 
@@ -19,7 +20,7 @@ Pixel Art
 
 Object-Oriented Programming
 
-💻 Main features
+💻 **Main features**
 
 Player movement and combat
 
@@ -40,12 +41,6 @@ Temporary robot companion
 User interface
 
 Music/SFX
-
-🧑‍💻 My contribution
-
-I developed the game as part of my studies, working on the programming and implementation of the game's mechanics using C# and Unity.
-The project allowed me to practice object-oriented programming, game systems, event handling, debugging, the interaction between different game components, music and sfx control.
-
 
 <img width="347" height="194" alt="image" src="https://github.com/user-attachments/assets/14b5422b-c6d3-4f4d-aac8-c9cc9a6278cf" />
 <img width="347" height="195" alt="image" src="https://github.com/user-attachments/assets/7d11eff0-9def-41b5-a388-d93b51c1b7ab" />
