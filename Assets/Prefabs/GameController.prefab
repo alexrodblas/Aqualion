@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8872025810634361474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5774870611574978754}
+  - component: {fileID: 539817219525585873}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5774870611574978754
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8872025810634361474}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &539817219525585873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8872025810634361474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38b2aede21ba8f34a818c6ffc6e56e67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mouseHotspot: {x: 5, y: 5}
+  mouseTexture: {fileID: 2800000, guid: 443dbc6572db9f649aeb44c2882a0d3d, type: 3}
+  loseSound:
+    Guid:
+      Data1: -743078437
+      Data2: 1148657063
+      Data3: -1221752658
+      Data4: -1089040786
+    Path: event:/Music/LoseSound
+  winSound:
+    Guid:
+      Data1: -997917662
+      Data2: 1225899792
+      Data3: 1166656394
+      Data4: -2031947161
+    Path: event:/Music/WinSound
+  config: {fileID: 11400000, guid: 3c50e38a32e99ba4493f69724ea10276, type: 2}
+  time: 0

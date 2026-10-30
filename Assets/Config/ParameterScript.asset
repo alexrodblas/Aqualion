@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a0945abd071f83448c37aa2a24adfc8, type: 3}
+  m_Name: ParameterScript
+  m_EditorClassIdentifier: 
+  timeToSurvive: 300
+  dashDuration: 0.2
+  dashCD: 10
+  dashImpulse: 30
+  playerHealth: 50
+  playerSpeed: 10
+  weaponsFireCD:
+  - 1
+  - 0.1
+  - 0.33
+  - 0.05
+  weaponsDamage: 0a000000020000000f00000003000000
+  weaponsValue: 0a000000140000002800000046000000
+  multiplicadorMonedas: 2
+  enemiesHealth: 1900000032000000c8000000
+  enemiesSpeed:
+  - 7
+  - 5
+  - 3
+  enemiesSpawnCD: 5
+  MAX_ENEMIES_NUM: 20
+  enemiesDamage: 010000000300000005000000
+  enemyAttackCD:
+  - 2
+  - 1
+  - 8
+  proyectilSpeed: 15
+  precioRobots: 80
