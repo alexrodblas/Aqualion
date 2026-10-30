@@ -59,4 +59,4 @@ Improved enemy AI
 
 More gameplay mechanics
 
-https://alexrodblas.itch.io/survival-project-aqualion
+Link to itch.io: https://alexrodblas.itch.io/survival-project-aqualion
