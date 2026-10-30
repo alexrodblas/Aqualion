@@ -1,13 +1,13 @@
 # Aqualion
 A 2D top-down survival game developed with Unity and C# as part of my Higher Vocational Training in Multiplatform Application Development (DAM - Video Games).
 
-🎮 About the game
+🎮 **About the game**
 
 In Aqualion, the player takes the role of a soldier sent to an alien planet that humanity plans to colonize.
 The objective is to survive for 5 minutes while fighting hostile aliens. Enemies drop coins that can be used to improve the player's weapons.
 The player can also hire a robot companion that helps fight enemies for a limited amount of time.
 
-🛠️ Technologies
+🛠️ **Technologies**
 
 Unity
 
