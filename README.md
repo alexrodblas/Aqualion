@@ -10,22 +10,35 @@ The player can also hire a robot companion that helps fight enemies for a limite
 🛠️ Technologies
 
 Unity
+
 C#
+
 2D
+
 Pixel Art
+
 Object-Oriented Programming
 
 💻 Main features
 
 Player movement and combat
+
 Different weapons
+
 Enemy AI
+
 Enemy spawning
+
 Health and damage systems
+
 Coin/reward system
+
 Weapon upgrades
+
 Temporary robot companion
+
 User interface
+
 Music/SFX
 
 🧑‍💻 My contribution
@@ -41,10 +54,15 @@ The project allowed me to practice object-oriented programming, game systems, ev
 🚀 Future improvements
 
 Some possible improvements for the project include:
+
 Additional enemy types
+
 More weapons and upgrades
+
 Additional maps
+
 Improved enemy AI
+
 More gameplay mechanics
 
 https://alexrodblas.itch.io/survival-project-aqualion
